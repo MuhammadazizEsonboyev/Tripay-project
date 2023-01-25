@@ -18,7 +18,7 @@ const Nav = () => {
                 </ul>
                 </div>
                 <div className="col-3">
-               <div className="box"> 
+               <div className="box_button"> 
                <a href="#!" className='login'>Log in</a>
                 <button className="sign">Sign Up</button>
                 </div>

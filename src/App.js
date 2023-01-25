@@ -1,12 +1,11 @@
-import Search from "./components/Search/Search";
 import Nav from "./components/Nav/Nav";
+// import Search from "./components/Search/Search";
 
 function App() {
   return (
     <>
-      <h1>Hello world</h1>
       <Nav/>
-      <Search/>
+      {/* <Search/> */}
       
   
     </>
