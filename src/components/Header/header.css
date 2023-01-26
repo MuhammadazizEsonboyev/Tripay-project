@@ -1,0 +1,41 @@
+.get{
+    margin-left: 40px;
+width: 218px;
+height: 70px;
+left: 97.5px;
+margin-top: 136px;
+margin-bottom: 60px;
+background: #3C50E0;
+border-radius: 16px;
+border:none;
+color: #F3F4FF;
+}
+.boxxs{
+bottom: 0%;
+background: #3C50E0;
+border-radius: 0px 10px 10px 0px;
+}
+.ban{
+    margin-left: 40px;
+    margin-top: 139px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 70px;
+color: #000000;
+
+}
+.p{
+margin: 30px 0px 65px 40px ;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+letter-spacing: 0.015em;
+color: #363D70;
+}
+#nea{
+background: #F3F4FF;
+}
