@@ -1,0 +1,77 @@
+.box {
+    width: 888px;
+    height: 372px;
+    margin-left: 270px;
+    background: #3C50E0;
+    border-radius: 20px;
+}
+
+.box-words {
+    display: flex;
+    justify-content: center;
+}
+
+.subscribe {
+    padding-top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.info-box {
+    margin: 8px, 50px 20px 20px;
+
+}
+
+.mini-info {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #E8E8E8;
+}
+
+.input
+{
+    position: relative;
+}
+
+.Enter {
+    display: flex;
+    margin-left: 130px;
+    width: 617px;
+    height: 81px;
+    background: #FCFCFC;
+    border: 1.5px solid #F5F5F5;
+    border-radius: 16px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 30px;
+    text-align: start;
+    letter-spacing: 0.04em;
+    color: #989898;
+}
+
+.sbc-btn
+{
+position: absolute;
+width: 197px;
+height: 75px;
+left: 546px;
+top: 2.5px;
+background: #141E6C;
+border-radius: 16px;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+}

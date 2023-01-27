@@ -1,0 +1,59 @@
+.how {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #000000;
+}
+.work{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.015em;
+color: #6C6C6C;
+}
+.information{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+color: #000000;
+}
+.more{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 0.015em;
+color: #5D8082;
+}
+.home1{
+    margin-top: 90px;
+}
+.more1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 0.015em;
+color: #5D8082;
+
+}
+.information1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+color: #000000;
+margin-top: -26px;
+}

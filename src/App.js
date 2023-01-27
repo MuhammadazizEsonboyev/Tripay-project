@@ -7,7 +7,6 @@ function App() {
     <>
       <MobileApp />
     </>
-  );
+  )
 }
-
 export default App;

@@ -1,0 +1,80 @@
+.get{
+    margin-left: 40px;
+width: 218px;
+height: 70px;
+left: 97.5px;
+margin-top: 60px;
+margin-bottom: 160px;
+background: #3C50E0;
+border-radius: 16px;
+border:none;
+color: #F3F4FF;
+}
+#boxxs{
+background: #3C50E0;
+border-radius: 0px 10px 10px 0px;
+}
+.ban{
+    margin-left: 40px;
+    margin-top: 139px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 70px;
+color: #000000;
+
+}
+.p{
+margin: 30px 0px 65px 40px ;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+letter-spacing: 0.015em;
+color: #363D70;
+}
+#nea{
+background: #F3F4FF;
+}
+.gre{
+    position: absolute;
+    width: 369px;
+    height: 251px;
+    margin-left: 245px;
+    top: 182px;
+}
+.img3{
+    position: absolute;
+    width: 747px;
+    height: 859px;
+    margin-left: -30px;
+    top: 41px;
+}
+.imf{
+    position: absolute;
+width: 258px;
+height: 218px;
+margin-left:30px;
+top: 556px;
+background: url();
+border-radius: 24px;
+}
+.sdr{
+    position: absolute;
+    width: 384px;
+    height: 435px;
+    margin-left: 302px;
+    top: 450px;
+    border-radius: 16px;
+}
+.img1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 376.93px;
+    height: 422.95px;
+    top: 76.95px;
+    filter: drop-shadow(0px 10px 110px rgba(0, 0, 0, 0.2));
+    border-radius: 10.5887px;
+}

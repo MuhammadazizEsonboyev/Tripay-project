@@ -1,0 +1,68 @@
+.logo{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 25px;
+color: #3C50E0;
+padding-top: 20px;
+
+}
+
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 20px;
+}
+
+.list_item{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #848484;
+    flex: none;
+    order: 1;
+    flex-grow: 0;   
+}
+
+.active{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;   
+    color: #3C50E0;
+    flex: none;
+    order: 0;
+    flex-grow: 0; 
+}
+
+.login{
+ font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+text-align: center;
+color: #3C50E0;
+}
+
+.box_button{
+    text-align: right;
+}
+
+.sign{
+    padding: 16px 35px;
+   color: white;
+    background: #3C50E0;
+    border-radius: 16px;   
+    border: none;
+    margin-left: 38px;
+}
+
+.login{
+    text-decoration: none;
+}
