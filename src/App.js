@@ -1,9 +1,11 @@
+import React from "react";
+import { MobileApp } from "./components/MobileApp/MobileApp";
+
 
 function App() {
   return (
     <>
-
-    <h1>Sanjar Developer</h1>
+      <MobileApp />
     </>
   );
 }
