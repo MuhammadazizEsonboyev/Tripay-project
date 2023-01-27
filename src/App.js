@@ -1,10 +1,11 @@
-import Nav from "./components/Nav/Nav";
-import Search from "./components/Search/Search";
-import Header from "./components/Header/Header";
+import React from "react";
+import { MobileApp } from "./components/MobileApp/MobileApp";
+
+
 function App() {
   return (
     <>
-  
+      <MobileApp />
     </>
   )
 }
